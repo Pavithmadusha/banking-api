@@ -1,0 +1,6 @@
+fastapi[standard]
+face-recognition==1.3.0
+pillow==10.4.0
+numpy==1.26.3
+opencv-python==4.9.0.80
+mysql-connector-python==9.0.0
